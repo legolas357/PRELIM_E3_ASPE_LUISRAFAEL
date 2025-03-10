@@ -223,7 +223,6 @@ input[type="text"]:focus {
   background: #222;
 }
 
-
 .profile-card {
   padding: 20px;
   border-radius: 10px;
@@ -242,7 +241,6 @@ input[type="text"]:focus {
   color: black;
 }
 
-
 .profile-circle {
   display: block;
   width: 120px;
@@ -253,6 +251,7 @@ input[type="text"]:focus {
   margin: 0 auto 10px;
   cursor: pointer;
   border: 3px solid #66d9ff;
+}
 
 .profile-image {
   width: 100%;
